@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Havindu Wijayalath currently a undergraduate, learning Computer Science in University of Colombo School of Computing. I'm more interested in Computer Networks and Operating Systems.
+
 <!--
 **haviwijayalath/haviwijayalath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
